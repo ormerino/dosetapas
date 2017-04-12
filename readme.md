@@ -1,4 +1,7 @@
 
+## Proyecto en Laravel 5.4
+El proposito de haberlo creado en este framework solo es de caracter formativo y académico.
+
 ## Requerimientos
 - PHP >=5.6 en su ordenador
 	(Puede descargar XAMPP con PHP 7.1.1 desde [aqui](https://www.apachefriends.org/es/download.html)
